@@ -1,0 +1,9 @@
+accelerate
+diffusers
+peft
+sentencepiece
+spaces
+torch
+transformers>=4.35.0
+xformers
+gradio>=4.0.0
